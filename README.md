@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![Kazuma Takata's GitHub stats](https://github-readme-stats.vercel.app/api?username=soccer4kzm8&theme=vue-dark&show_icons=true)](https://github.com/soccer4kzm8/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soccer4kzm8&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/soccer4kzm8/github-readme-stats)
 
 <!--
 **soccer4kzm8/soccer4kzm8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
